@@ -1,5 +1,5 @@
 /**
- * Complejidad Temporal -> O(  )
+ * Complejidad Temporal -> O( n^2 )
  * Complejidad Espacial -> O(  )
  * Espacio Auxiliar -> O(  )
  */
